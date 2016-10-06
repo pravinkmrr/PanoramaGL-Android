@@ -1,7 +1,7 @@
 /*
  * This file is part of the PanoramaGL library for Android.
  *
- *  Authors: Javier Baez <javbaezga@gmail.com> and Miguel „au–ay <mg_naunay@hotmail.com>
+ *  Authors: Javier Baez <javbaezga@gmail.com> and Miguel ï¿½auï¿½ay <mg_naunay@hotmail.com>
  *
  *  $Id$
  *
@@ -197,6 +197,8 @@ public class PLCube extends PLSceneElement
 		gl.glDisable(GL10.GL_CULL_FACE);
 		gl.glDisable(GL10.GL_TEXTURE_2D);
 		gl.glDisable(GL10.GL_BLEND);
+
+		/** method end*/
 	}
 	
 	/**dealloc methods*/
